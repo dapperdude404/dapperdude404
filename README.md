@@ -7,6 +7,7 @@ Name: Aryan Sengar
 Enrollment No: A2305226001
 Program: M.Tech in Artificial Intelligence (Semester I)
 University: Amity University, Lucknow Campus
+
 📂 Repository Structure
 ├── AIML601-Laboratory-Records/       # Official lab manuals, regression, KNN, TinyML quantization
 ├── Machine-Learning-and-DWDM/        # Mathematical derivations, regression scripts, market-basket analysis
@@ -41,8 +42,8 @@ Deep Learning: TensorFlow, PyTorch, Keras (TinyML)
 Visualization: Matplotlib, Seaborn
 Tools: Git, GitHub, MS Project, Google Docs / LaTeX
 
-📜 Lab Implementations Example (SciPy Linear Regression)
 
+📜 Lab Implementations Example (SciPy Linear Regression)
 import matplotlib.pyplot as plt
 from scipy import stats
 
